@@ -1,6 +1,6 @@
-# Computer science resources
+# Computer science learning resources
 
-This repo contains some excellent resources for you to learn computer science. There are so many free online resources to learn programming, cybersecurity or other computer science topics. Here are some websites for you to start exploring:
+This repository contains some excellent resources for you to learn computer science. There are so many free online resources to learn programming, cybersecurity or other computer science topics. Here are some websites for you to start exploring:
 
 ## Programming
 | Name               | Link                           |
@@ -18,6 +18,7 @@ This repo contains some excellent resources for you to learn computer science. T
 | HackerRank         | https://www.hackerrank.com/    |
 | Codewars           | https://www.codewars.com/      |
 | Geeks for Geeks    | https://www.geeksforgeeks.org/ |
+| Project Euler      | https://projecteuler.net/      |
 
 ## Cybersecurity
 | Name         | Link                        |
@@ -40,3 +41,12 @@ This repo contains some excellent resources for you to learn computer science. T
 | Machine Learning Mastery | https://machinelearningmastery.com/ |
 | KDnuggets                | https://www.kdnuggets.com/          |
 | Towards data science     | https://towardsdatascience.com/     |
+
+## Bioinformatics
+
+| Name               | Link                           |
+| ------------------ | ------------------------------ |
+| Rosalind           | https://rosalind.info/         |
+| Bioinformatics.org | http://www.bioinformatics.org/ |
+| Bio.tools          | https://bio.tools/             |
+
