@@ -40,7 +40,6 @@ This repository contains some excellent resources for you to learn computer scie
 | DeepLearning.AI          | https://www.deeplearning.ai/        |
 | Machine Learning Mastery | https://machinelearningmastery.com/ |
 | KDnuggets                | https://www.kdnuggets.com/          |
-| Towards data science     | https://towardsdatascience.com/     |
 
 ## Bioinformatics
 
@@ -49,4 +48,13 @@ This repository contains some excellent resources for you to learn computer scie
 | Rosalind           | https://rosalind.info/         |
 | Bioinformatics.org | http://www.bioinformatics.org/ |
 | Bio.tools          | https://bio.tools/             |
+
+## Data science
+
+| Name                 | Link                                |
+| -------------------- | ----------------------------------- |
+| Datacamp             | https://www.datacamp.com/           |
+| Towards data science | https://towardsdatascience.com/     |
+| Data science central | https://www.datasciencecentral.com/ |
+| TDWI                 | https://tdwi.org/                   |
 
