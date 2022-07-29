@@ -58,3 +58,10 @@ This repository contains some excellent resources for you to learn computer scie
 | Data science central | https://www.datasciencecentral.com/ |
 | TDWI                 | https://tdwi.org/                   |
 
+## Networking
+
+| Name              | Link                              |
+| ----------------- | --------------------------------- |
+| Network Computing | https://www.networkcomputing.com/ |
+| Network World     | https://www.networkworld.com/     |
+
